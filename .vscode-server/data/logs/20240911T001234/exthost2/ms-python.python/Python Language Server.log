@@ -1,0 +1,27 @@
+2024-09-11 00:13:40.947 [info] (Client) Pylance async client (2024.9.1) started with python extension (2024.14.0)
+2024-09-11 00:13:48.309 [info] [Info  - 12:13:47 AM] (2698) Server root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-11 00:13:48.386 [info] [Info  - 12:13:48 AM] (2698) Pylance language server 2024.9.1 (pyright version 1.1.378, commit ce64adc1) starting
+2024-09-11 00:13:48.387 [info] [Info  - 12:13:48 AM] (2698) Starting service instance "ec2-user"
+2024-09-11 00:13:49.428 [info] [Info  - 12:13:49 AM] (2698) Setting environmentName for service "ec2-user": "3.9.16 (global)"
+2024-09-11 00:13:49.428 [info] [Info  - 12:13:49 AM] (2698) Setting pythonPath for service "ec2-user": "/bin/python"
+2024-09-11 00:13:49.428 [info] [Info  - 12:13:49 AM] (2698) No include entries specified; assuming /home/ec2-user
+2024-09-11 00:13:49.746 [info] [Info  - 12:13:49 AM] (2698) Auto-excluding **/node_modules
+2024-09-11 00:13:49.747 [info] [Info  - 12:13:49 AM] (2698) Auto-excluding **/__pycache__
+2024-09-11 00:13:49.748 [info] [Info  - 12:13:49 AM] (2698) Auto-excluding **/.*
+2024-09-11 00:13:50.145 [info] [Info  - 12:13:50 AM] (2698) Assuming Python version 3.9.16.final.0
+2024-09-11 00:13:51.747 [info] [Info  - 12:13:51 AM] (2698) Found 1 source file
+2024-09-11 00:13:56.146 [info] [Info  - 12:13:56 AM] (2698) [FG] Long operation: parsing: file:///home/ec2-user/server.py (2244ms)
+2024-09-11 00:13:59.986 [info] [Info  - 12:13:59 AM] (2698) [FG] Long operation: parsing: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.1/dist/typeshed-fallback/stdlib/builtins.pyi (5348ms)
+2024-09-11 00:14:03.750 [info] [Info  - 12:14:03 AM] (2698) Background analysis(1) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-11 00:14:03.986 [info] [Info  - 12:14:03 AM] (2698) Background analysis(1) started
+2024-09-11 00:14:08.314 [info] [Info  - 12:14:08 AM] (2698) [BG(1)] Long operation: parsing: file:///home/ec2-user/server.py (2004ms)
+2024-09-11 00:14:10.705 [info] [Info  - 12:14:10 AM] (2698) Indexer background runner(2) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.1/dist (index)
+2024-09-11 00:14:10.706 [info] [Info  - 12:14:10 AM] (2698) Indexing(2) started
+2024-09-11 00:14:12.388 [info] [Info  - 12:14:12 AM] (2698) [BG(1)] Long operation: parsing: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.1/dist/typeshed-fallback/stdlib/builtins.pyi (3920ms)
+2024-09-11 00:14:21.751 [info] [Info  - 12:14:21 AM] (2698) [BG(1)] Long operation: parsing: file:///home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py (2000ms)
+2024-09-11 00:14:33.194 [info] [Info  - 12:14:33 AM] (2698) [IDX(2)] Long operation: scan packages file:///home/ec2-user (19285ms)
+2024-09-11 00:14:33.195 [info] [Info  - 12:14:33 AM] (2698) scanned(2) 83 files over 1 exec env
+2024-09-11 00:14:34.070 [info] [Info  - 12:14:34 AM] (2698) [BG(1)] Long operation: checking: file:///home/ec2-user/server.py (20077ms)
+2024-09-11 00:14:34.071 [info] [Info  - 12:14:34 AM] (2698) [BG(1)] Long operation: analyzing: file:///home/ec2-user/server.py (27763ms)
+2024-09-11 00:14:40.629 [info] [Info  - 12:14:40 AM] (2698) indexed(2) 60 files over 1 exec env
+2024-09-11 00:14:41.667 [info] [Info  - 12:14:41 AM] (2698) Indexing finished(2).

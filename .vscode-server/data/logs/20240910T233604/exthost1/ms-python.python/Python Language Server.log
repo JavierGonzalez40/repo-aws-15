@@ -1,0 +1,27 @@
+2024-09-10 23:37:00.376 [info] (Client) Pylance async client (2024.9.1) started with python extension (2024.14.0)
+2024-09-10 23:37:05.660 [info] [Info  - 11:37:04 PM] (2608) Server root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-10 23:37:05.661 [info] [Info  - 11:37:05 PM] (2608) Pylance language server 2024.9.1 (pyright version 1.1.378, commit ce64adc1) starting
+2024-09-10 23:37:05.661 [info] [Info  - 11:37:05 PM] (2608) Starting service instance "ec2-user"
+2024-09-10 23:37:07.096 [info] [Info  - 11:37:07 PM] (2608) Setting environmentName for service "ec2-user": "3.9.16 (global)"
+2024-09-10 23:37:07.176 [info] [Info  - 11:37:07 PM] (2608) Setting pythonPath for service "ec2-user": "/bin/python"
+2024-09-10 23:37:07.177 [info] [Info  - 11:37:07 PM] (2608) No include entries specified; assuming /home/ec2-user
+2024-09-10 23:37:07.178 [info] [Info  - 11:37:07 PM] (2608) Auto-excluding **/node_modules
+2024-09-10 23:37:07.179 [info] [Info  - 11:37:07 PM] (2608) Auto-excluding **/__pycache__
+2024-09-10 23:37:07.256 [info] [Info  - 11:37:07 PM] (2608) Auto-excluding **/.*
+2024-09-10 23:37:07.744 [info] [Info  - 11:37:07 PM] (2608) Assuming Python version 3.9.16.final.0
+2024-09-10 23:37:09.818 [info] [Info  - 11:37:09 PM] (2608) Found 1 source file
+2024-09-10 23:37:16.535 [info] [Info  - 11:37:16 PM] (2608) [FG] Long operation: parsing: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.1/dist/typeshed-fallback/stdlib/builtins.pyi (4478ms)
+2024-09-10 23:37:19.342 [info] [Info  - 11:37:19 PM] (2608) [FG] Long operation: binding: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.1/dist/typeshed-fallback/stdlib/builtins.pyi (2805ms)
+2024-09-10 23:37:24.217 [info] [Info  - 11:37:24 PM] (2608) Background analysis(1) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-10 23:37:24.218 [info] [Info  - 11:37:24 PM] (2608) Background analysis(1) started
+2024-09-10 23:37:30.311 [info] [Info  - 11:37:30 PM] (2608) Indexer background runner(2) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.1/dist (index)
+2024-09-10 23:37:30.311 [info] [Info  - 11:37:30 PM] (2608) Indexing(2) started
+2024-09-10 23:37:35.178 [info] [Info  - 11:37:35 PM] (2608) [BG(1)] Long operation: parsing: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.1/dist/typeshed-fallback/stdlib/builtins.pyi (6077ms)
+2024-09-10 23:37:37.183 [info] [Info  - 11:37:37 PM] (2608) [BG(1)] Long operation: binding: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.1/dist/typeshed-fallback/stdlib/builtins.pyi (2406ms)
+2024-09-10 23:37:49.739 [info] [Info  - 11:37:49 PM] (2608) [BG(1)] Long operation: parsing: file:///home/ec2-user/.local/lib/python3.9/site-packages/jinja2/environment.py (2240ms)
+2024-09-10 23:37:51.896 [info] [Info  - 11:37:51 PM] (2608) [IDX(2)] Long operation: scan packages file:///home/ec2-user (18952ms)
+2024-09-10 23:37:51.897 [info] [Info  - 11:37:51 PM] (2608) scanned(2) 83 files over 1 exec env
+2024-09-10 23:38:04.059 [info] [Info  - 11:38:04 PM] (2608) [BG(1)] Long operation: SemanticTokens range 0:0 - 10:0 at file:///home/ec2-user/server.py (30878ms)
+2024-09-10 23:38:04.616 [info] [Info  - 11:38:04 PM] (2608) [IDX(2)] Long operation: index packages file:///home/ec2-user (3037ms)
+2024-09-10 23:38:04.616 [info] [Info  - 11:38:04 PM] (2608) indexed(2) 60 files over 1 exec env
+2024-09-10 23:38:05.500 [info] [Info  - 11:38:05 PM] (2608) Indexing finished(2).

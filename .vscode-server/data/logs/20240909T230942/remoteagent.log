@@ -1,0 +1,33 @@
+2024-09-09 23:09:43.055 [info] 
+
+
+
+
+2024-09-09 23:09:43.068 [info] Extension host agent started.
+2024-09-09 23:09:43.414 [info] [<unknown>][4417fe07][ManagementConnection] New connection established.
+2024-09-09 23:09:43.416 [info] [<unknown>][e846c7bb][ExtensionHostConnection] New connection established.
+2024-09-09 23:09:43.546 [info] [<unknown>][e846c7bb][ExtensionHostConnection] <2417> Launched Extension Host Process.
+2024-09-09 23:14:43.070 [info] New EH opened, aborting shutdown
+2024-09-09 23:50:28.193 [info] [<unknown>][4417fe07][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-09 23:50:28.239 [info] [<unknown>][e846c7bb][ExtensionHostConnection] <2417> Extension Host Process exited with code: 0, signal: null.
+2024-09-09 23:50:28.239 [info] Last EH closed, waiting before shutting down
+2024-09-09 23:50:34.282 [info] [<unknown>][2ef3b059][ManagementConnection] New connection established.
+2024-09-09 23:50:34.283 [info] [<unknown>][f9844ad9][ExtensionHostConnection] New connection established.
+2024-09-09 23:50:34.286 [info] [<unknown>][f9844ad9][ExtensionHostConnection] <3912> Launched Extension Host Process.
+2024-09-09 23:55:28.241 [info] New EH opened, aborting shutdown
+2024-09-09 23:55:28.243 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ec2-user/.vscode-server/cli/servers/Stable-4849ca9bdf9666755eb463db297b69e5385090e3/server/out/vs/server/node/server.main.js:198:6390)
+    at process.emit (node:events:531:35)
+2024-09-10 00:01:03.877 [info] Getting Manifest... ms-vscode.live-server
+2024-09-10 00:01:03.929 [info] Installing extension: ms-vscode.live-server {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ec2-user/.vscode-server/extensions/extensions.json","external":"file:///home/ec2-user/.vscode-server/extensions/extensions.json","path":"/home/ec2-user/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"}}
+2024-09-10 00:01:05.197 [info] Extension signature verification result for ms-vscode.live-server: Success. Executed: true. Duration: 1043ms.
+2024-09-10 00:01:05.267 [info] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/ms-vscode.live-server-0.4.14: ms-vscode.live-server
+2024-09-10 00:01:05.272 [info] Renamed to /home/ec2-user/.vscode-server/extensions/ms-vscode.live-server-0.4.14
+2024-09-10 00:01:05.281 [info] Extension installed successfully: ms-vscode.live-server file:///home/ec2-user/.vscode-server/extensions/extensions.json
+2024-09-10 00:17:21.250 [info] [<unknown>][319528a8][ManagementConnection] New connection established.
+2024-09-10 00:17:21.251 [info] [<unknown>][36420d84][ExtensionHostConnection] New connection established.
+2024-09-10 00:17:21.254 [info] [<unknown>][36420d84][ExtensionHostConnection] <4982> Launched Extension Host Process.
+2024-09-10 00:24:12.205 [info] [<unknown>][2ef3b059][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-10 00:28:49.785 [info] [<unknown>][f9844ad9][ExtensionHostConnection] <3912> Extension Host Process exited with code: 0, signal: null.
+2024-09-10 01:01:29.212 [info] [<unknown>][2ef3b059][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-10 01:06:29.374 [info] [<unknown>][2ef3b059][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.

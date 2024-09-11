@@ -1,0 +1,17 @@
+2024-09-10 23:18:03.717 [info] Starting Python Locator /home/ec2-user/.vscode-server/extensions/ms-python.python-2024.14.0-linux-x64/python-env-tools/bin/pet server
+2024-09-10 23:18:04.547 [info] Discovered env: /usr/bin/python
+2024-09-10 23:18:04.559 [info] Discovered env: /bin/python
+2024-09-10 23:18:04.574 [info] Locator Conda took 55.938647ms
+2024-09-10 23:18:04.574 [info] Locator Homebrew took 43.657µs
+2024-09-10 23:18:04.575 [info] Locator LinuxGlobal took 170.64885ms
+2024-09-10 23:18:04.581 [info] Locator PipEnv took 11.245µs
+2024-09-10 23:18:04.581 [info] Locator Poetry took 64.919µs
+2024-09-10 23:18:04.581 [info] Locator PyEnv took 105.617µs
+2024-09-10 23:18:04.581 [info] Locator Venv took 10.183µs
+2024-09-10 23:18:04.581 [info] Locator VirtualEnv took 29.72µs
+2024-09-10 23:18:04.581 [info] Locator VirtualEnvWrapper took 18.736µs
+2024-09-10 23:18:04.581 [info] Locator GlobalVirtualEnvs took 41.78µs
+2024-09-10 23:18:04.581 [info] Locator Locators took 176.669798ms
+2024-09-10 23:18:04.581 [info] Locator Path took 418.276003ms
+2024-09-10 23:18:04.581 [info] Locator Workspaces took 998ns
+2024-09-10 23:18:04.581 [info] Refresh completed in 418ms

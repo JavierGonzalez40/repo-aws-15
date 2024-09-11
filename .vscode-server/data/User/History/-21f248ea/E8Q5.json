@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "remote.SSH.remotePlatform": {
+        "inst-cym-1": "linux"
+    }
+}
